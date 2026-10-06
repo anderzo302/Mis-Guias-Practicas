@@ -1,0 +1,4 @@
+pip install speedtest-cli
+pip install pandas
+pip install psycopg[binary]
+pip install sqlalchemy psycopg[binary]
